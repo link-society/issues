@@ -1,7 +1,7 @@
 ## :package: What product is impacted ?
 
- - [ ] Kubevisor
- - [ ] SPRadio
+ - [ ] Kubirds
+ - [ ] OneClickNotify
  - [ ] Datapio OpenCore
 
 ## :gear: What is your runtime context ?
